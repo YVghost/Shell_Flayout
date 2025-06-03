@@ -6,7 +6,10 @@
     xmlns:local="clr-namespace:Shell_Flayout"
     Shell.FlyoutBehavior="Disabled"
     Title="Shell_Flayout">
-
+    
+    
+    <!--
+        ContentPage-->
 
     <TabBar>
         <Tab Title="Main Page" Icon="dotnet_bot.png">
